@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="981e8af3-4773-4be7-bdc8-ae109e7facbe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/ent-trainer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theory/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/theory/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_tasks/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_tasks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="981e8af3-4773-4be7-bdc8-ae109e7facbe" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +60,7 @@
       <workItem from="1747492299220" duration="306000" />
       <workItem from="1747492619096" duration="3581000" />
       <workItem from="1747496458206" duration="2195000" />
-      <workItem from="1747506837904" duration="2252000" />
+      <workItem from="1747506837904" duration="2566000" />
     </task>
     <servers />
   </component>
